@@ -1,4 +1,4 @@
-# XP-Machine-Repair
+# XP Machine Repair
 This is a retro-active report as the project was completed a long time ago, therefore images are not accurate of the work undertaken at the time and images of some steps are not included.
 
 ![XP Machine Turned on](https://github.com/EmilyF99/XP-Machine-Repair/blob/main/XP%20Machine.jpg?raw=true)
